@@ -13,15 +13,15 @@ Whether you're a beginner looking for ideas or an experienced programmer seeking
 ### 1. **Motivational Quote of the Day**  
    - **Description**: Displays a motivational quote every time you run the program, with a special message on Mondays.  
    - **Skills Practiced**: File handling, randomization, string processing, control flow, and date handling.  
-   - [View Project](https://github.com/HannahBoulet/PythonMiniProjects/tree/main/Motivational_Quote_Of_The_Day)  
+   - [View Project](./motivational_quote_of_the_day/)  
 
-### 2. **Real Estate Price Estimator**  
+[//]: # (### 2. **Project Name Placeholder**  )
 
-   - **Description**:  It estimates the price of a property based on its size (in square feet) and location (city or suburb).
+[//]: # (   - **Description**: Brief description of the project.  )
 
-   - **Skills Practiced**: User input, Conditional Logic, Calculations, Testing, and String Handling
+[//]: # (   - **Skills Practiced**: Key concepts covered in this project.  )
 
-   - [View Project](./project_name_placeholder/)  
+[//]: # (   - [View Project]&#40;./project_name_placeholder/&#41;  )
 
 [//]: # (### 3. &#40;Add additional projects as you create them!&#41;  )
 
