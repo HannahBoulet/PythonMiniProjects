@@ -15,13 +15,13 @@ Whether you're a beginner looking for ideas or an experienced programmer seeking
    - **Skills Practiced**: File handling, randomization, string processing, control flow, and date handling.  
    - [View Project](./motivational_quote_of_the_day/)  
 
-[//]: # (### 2. **Project Name Placeholder**  )
+### 2. **Real Estate Price Estimator**  
 
-[//]: # (   - **Description**: Brief description of the project.  )
+   - **Description**:  It estimates the price of a property based on its size (in square feet) and location (city or suburb).
 
-[//]: # (   - **Skills Practiced**: Key concepts covered in this project.  )
+   - **Skills Practiced**: User input, Conditional Logic, Calculations, Testing, and String Handling
 
-[//]: # (   - [View Project]&#40;./project_name_placeholder/&#41;  )
+   - [View Project](./project_name_placeholder/)  
 
 [//]: # (### 3. &#40;Add additional projects as you create them!&#41;  )
 
