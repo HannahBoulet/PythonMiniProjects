@@ -13,7 +13,7 @@ Whether you're a beginner looking for ideas or an experienced programmer seeking
 ### 1. **Motivational Quote of the Day**  
    - **Description**: Displays a motivational quote every time you run the program, with a special message on Mondays.  
    - **Skills Practiced**: File handling, randomization, string processing, control flow, and date handling.  
-   - [View Project](./motivational_quote_of_the_day/)  
+   - [View Project](https://github.com/HannahBoulet/PythonMiniProjects/tree/main/Motivational_Quote_Of_The_Day)  
 
 ### 2. **Real Estate Price Estimator**  
 
